@@ -1,0 +1,12 @@
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/obj/Debug/netcoreapp3.1/OOPS ASSIGNMENT.csprojAssemblyReference.cache
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/obj/Debug/netcoreapp3.1/OOPS ASSIGNMENT.csproj.CoreCompileInputs.cache
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/obj/Debug/netcoreapp3.1/OOPS ASSIGNMENT.AssemblyInfoInputs.cache
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/obj/Debug/netcoreapp3.1/OOPS ASSIGNMENT.AssemblyInfo.cs
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/bin/Debug/netcoreapp3.1/OOPS ASSIGNMENT.deps.json
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/bin/Debug/netcoreapp3.1/OOPS ASSIGNMENT.runtimeconfig.json
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/bin/Debug/netcoreapp3.1/OOPS ASSIGNMENT.runtimeconfig.dev.json
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/bin/Debug/netcoreapp3.1/OOPS ASSIGNMENT.dll
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/bin/Debug/netcoreapp3.1/OOPS ASSIGNMENT.pdb
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/obj/Debug/netcoreapp3.1/OOPS ASSIGNMENT.dll
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/obj/Debug/netcoreapp3.1/OOPS ASSIGNMENT.pdb
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/OOPS ASSIGNMENT/obj/Debug/netcoreapp3.1/OOPS ASSIGNMENT.genruntimeconfig.cache
